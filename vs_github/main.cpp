@@ -9,7 +9,7 @@ int main() {
 	
 	cout << a << " " << b;
 	
+	
 	// master branch
-
 	return 0;
 }
